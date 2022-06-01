@@ -9,6 +9,7 @@ public class TestAnnotation
  public void testcase()
  {
 	Reporter.log("my 1st test case",true);
+//my 1st test case
  }
 	
 }
