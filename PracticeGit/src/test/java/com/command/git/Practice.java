@@ -9,7 +9,8 @@ public class Practice
 	@Test                                       
 	 public void testcase()                     
 	 {                                          
-		Reporter.log("my 1st test case",true);  
+		Reporter.log("my 1st test case",true);
+//person 1 is modified  
 	 }                                          	
 	
 }
